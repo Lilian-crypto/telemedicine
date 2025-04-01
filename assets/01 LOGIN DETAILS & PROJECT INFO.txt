@@ -1,0 +1,27 @@
+**Database Name: hmisphp**
+
+**Developed by Lilian Nyambura Juma
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+**Doctor Login Details**
+
+ID      : YDS7L
+Password: password
+
+** Patient Login Detail**
+
+Email: nyambural537@gmail.com
+Password": Lilianjuma2
+
+Email: jumwanjengachui@gmail.com
+Password: 1234567890
+
+
