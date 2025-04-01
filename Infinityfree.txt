@@ -1,0 +1,4 @@
+$host = "sql304.infinityfree.com"; // MySQL hostname
+$username = "if0_38645621"; // MySQL username
+$password = ""; // Empty password
+$database = "hmisphp"; // DB name
